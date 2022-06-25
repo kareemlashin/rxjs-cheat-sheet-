@@ -168,11 +168,11 @@ export class rxjsExmaples{
   }
 
   hotVsCold() {
-    // //HOT - u not expected to recieve history data:
+   //HOT - u not expected to recieve history data:
     // const keyUps$ = Rx.Observable.fromEvent(document.body, 'keyups');
-    // //Cold - when u subscribe to it - then it produce values and you excpect to recieve all vlaues from start to finish
+    //Cold - when u subscribe to it - then it produce values and you excpect to recieve all vlaues from start to finish
     // const interval$ = Rx.Observable.interval(400);
-    // //every time we subscribe to the interval we got a new set timeout
+  //every time we subscribe to the interval we got a new set timeout
 
     // interval$.subscribe(i => console.log('one :' + i));
 
