@@ -1,0 +1,45 @@
+- range()
+- timer()
+- pipe()
+- ajax()
+- finalize()
+- from([])
+- of()
+- interval()
+- ------------------------------
+- count()
+- take()
+- skip()
+- map()
+- tap() /do()
+- catchError()
+- last()
+- first()
+- takeLast()
+- takeWhile()
+- toArray()
+- throwError()
+- max()
+- min()
+- isEmpty()
+- find()
+- findIndex()
+- delay()
+- retryWhen()
+- share()
+- shareReplay(1)
+- distinctUntilChanged()
+- distinct()
+- groupBy()
+------------------------------
+-- merge (observables,observables) merge list of observables 
+-- Subject
+-- behaviorSubject
+-- ReplaySubject
+-- forkJoin
+-- concat
+-- flatMap
+-- mergeMap
+-- mergeAll 
+-- concatAll
+-- concatMap

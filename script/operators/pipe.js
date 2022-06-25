@@ -1,0 +1,1 @@
+var source = interval(1000).pipe(pipe(), pipe(), pipe(), pipe(), pipe())

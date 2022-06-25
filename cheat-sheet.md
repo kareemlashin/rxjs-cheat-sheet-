@@ -1,0 +1,13 @@
+https://rxmarbles.com/
+- combineAll :  flatting inner observable (observable in observable) spread operator
+- concatAll  : first Observable => second Observable
+- mergeAll   : inner Observable as it arrives, then emits each value as it arrives
+- merge      : list of observables when any Observables emit
+- concat     : list of observables 
+- mergeMap   : to flatting inner observable (observable in observable) spread operator
+- flatMap    : 
+- forkJoin   : flatting inner observable (observable , observable) used to get all values from observables
+- distinct   : 
+- concatMap  : behaves like a queue: It stores all calls and sends one after another. If one is completed, the next one
+- mergeMap   : Also sends all requests, like concatMap but does not wait until the response is coming back. It sends them out 
+- zip        : 
